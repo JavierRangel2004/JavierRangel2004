@@ -11,8 +11,6 @@
   <a href="https://twitter.com/inspec_jrm"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v2.png"/></a>
   <a href="https://www.instagram.com/inspec_jrm/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45" width="45"></a>
  </p>
- 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=javaramu&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=javaramu&redirect=true)
 
 ### Languages and tools👾:
 <p align="left">
@@ -28,6 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visual studio code" width="40" height="40"/>
 </p>
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=javaramu&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=javaramu&redirect=true)
 
 Last Update: 04/05/2023
 <!--
