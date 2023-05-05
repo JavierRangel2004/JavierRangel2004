@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=40F700&center=true&vCenter=true&width=435&lines=Hey%2C+Im+Javier;How+is+your+day+going%3F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=40F700&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Javier;How+is+your+day+going%3F" />
 </p>
 
 - 🔭 I’m currently a Backend Developer at Universidad Panamericana iOS Development Lab
