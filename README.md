@@ -41,7 +41,9 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=javaramu&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile Readme"/>
 </div>
 
-![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierRangel2004&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierRangel2004&show_icons=true&theme=tokyonight" alt="Your Name's GitHub stats" />
+</p>
 
 <div align="center">
   Last Update: 04/05/2023
