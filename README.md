@@ -37,13 +37,32 @@
 <img src="https://img.shields.io/badge/Mac_OS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="Mac OS">
 </div>
 
+<details>
+<p align="center">
+  <a href="https://github.com/JavierRangel2004">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavierRangel2004&theme=transparent" />
+  </a>
+  <a href="https://github.com/JavierRangel2004">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierRangel2004&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/JavierRangel2004">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JavierRangel2004&theme=transparent" />
+  </a>
+  <a href="https://github.com/JavierRangel2004">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierRangel2004&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+</details>
+
+<p align="center">
+  <a href="https://github.com/wervlad">
+    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+  </a>
+</p>
+
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=javaramu&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile Readme"/>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierRangel2004&show_icons=true&theme=tokyonight" alt="Your Name's GitHub stats" />
-</p>
 
 <div align="center">
   Last Update: 04/05/2023
